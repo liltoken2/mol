@@ -5,3 +5,4 @@ if a==1:
   print('yes')
 else:
     print('NO')
+print('hi')
